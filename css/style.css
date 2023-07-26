@@ -83,7 +83,7 @@
  * =================================================================== */
 
  .section-image {
- 	background: #151515 url(https://drive.google.com/file/d/1Wam7FjyHo03jUJpM4jABEV3uUSsHwWx8/view?usp=sharing&auto=compress,format&crop=entropy&fit=crop&w=1199&h=799&q=80) no-repeat center center;
+ 	background-image: url(https://drive.google.com/file/d/1Wam7FjyHo03jUJpM4jABEV3uUSsHwWx8/view?usp=sharing);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
