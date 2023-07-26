@@ -83,7 +83,7 @@
  * =================================================================== */
 
  .section-image {
- 	background: #151515 url(https://peakvisor.com/img/news/Tennessee-Mountains.jpg,format&crop=entropy&fit=crop&w=1199&h=799&q=80) no-repeat center center;
+ 	background: #151515 url(https://peakvisor.com/img/news/Tennessee-Mountains.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
